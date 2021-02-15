@@ -1,0 +1,5 @@
+In python you can use varibales to store information.
+In python you can use functions to help make it so you dont ahve to write code over and over again.
+In python you can make classes to that have mutliple variables attached to them.
+In python you can make lists of items.
+In python you can make dictionarys of keys and their values.
