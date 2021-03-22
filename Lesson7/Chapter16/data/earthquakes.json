@@ -1,0 +1,741 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1616439118000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 18
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7,
+                "place": "27 km ENE of Ishinomaki, Japan",
+                "time": 1616231385279,
+                "updated": 1616431440399,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dl6y",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dl6y.geojson",
+                "felt": 395,
+                "cdi": 7.8,
+                "mmi": 6.64,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1062,
+                "net": "us",
+                "code": "7000dl6y",
+                "ids": ",at00qq9g49,us7000dl6y,pt21079003,",
+                "sources": ",at,us,pt,",
+                "types": ",associate,dyfi,finite-fault,general-text,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.349,
+                "rms": 1.03,
+                "gap": 60,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.0 - 27 km ENE of Ishinomaki, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.6069,
+                    38.4752,
+                    54
+                ]
+            },
+            "id": "us7000dl6y"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.7,
+                "place": "7 km N of Marquelia, Mexico",
+                "time": 1616209593755,
+                "updated": 1616425435918,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dl4v",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dl4v.geojson",
+                "felt": 84,
+                "cdi": 8.5,
+                "mmi": 6.255,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 721,
+                "net": "us",
+                "code": "7000dl4v",
+                "ids": ",us7000dl4v,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.934,
+                "rms": 1.21,
+                "gap": 93,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.7 - 7 km N of Marquelia, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.8124,
+                    16.6531,
+                    28.33
+                ]
+            },
+            "id": "us7000dl4v"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.7,
+                "place": "92 km ENE of Nagqu, China",
+                "time": 1616134287383,
+                "updated": 1616220964250,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dkv0",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dkv0.geojson",
+                "felt": 3,
+                "cdi": 8.2,
+                "mmi": 6.762,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 652,
+                "net": "us",
+                "code": "7000dkv0",
+                "ids": ",us7000dkv0,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 6.382,
+                "rms": 0.63,
+                "gap": 19,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.7 - 92 km ENE of Nagqu, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.8989,
+                    31.9061,
+                    10
+                ]
+            },
+            "id": "us7000dkv0"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "20 km NNE of Beja\u00c3\u00afa, Algeria",
+                "time": 1616025846798,
+                "updated": 1616286933080,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dker",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dker.geojson",
+                "felt": 168,
+                "cdi": 7.9,
+                "mmi": 7.662,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 783,
+                "net": "us",
+                "code": "7000dker",
+                "ids": ",us7000dker,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 3.065,
+                "rms": 0.52,
+                "gap": 20,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.0 - 20 km NNE of Beja\u00c3\u00afa, Algeria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1994,
+                    36.9146,
+                    8
+                ]
+            },
+            "id": "us7000dker"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "176 km SSE of Ust\u00e2\u20ac\u2122-Kamchatsk Staryy, Russia",
+                "time": 1615919902866,
+                "updated": 1616094205137,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000djz6",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000djz6.geojson",
+                "felt": 4,
+                "cdi": 4.9,
+                "mmi": 4.852,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 672,
+                "net": "us",
+                "code": "7000djz6",
+                "ids": ",at00qq2rs1,us7000djz6,pt21075000,",
+                "sources": ",at,us,pt,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 3.179,
+                "rms": 1.16,
+                "gap": 21,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.6 - 176 km SSE of Ust\u00e2\u20ac\u2122-Kamchatsk Staryy, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    163.2077,
+                    54.7018,
+                    22.06
+                ]
+            },
+            "id": "us7000djz6"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.5,
+                "place": "3 km NE of Eastborough, Kansas",
+                "time": 1615763311621,
+                "updated": 1616377899822,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000djda",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000djda.geojson",
+                "felt": 1824,
+                "cdi": 4.7,
+                "mmi": 4.71,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 658,
+                "net": "us",
+                "code": "7000djda",
+                "ids": ",us7000djda,",
+                "sources": ",us,",
+                "types": ",dyfi,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.64,
+                "rms": 0.28,
+                "gap": 59,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 3.5 - 3 km NE of Eastborough, Kansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2346,
+                    37.7131,
+                    5
+                ]
+            },
+            "id": "us7000djda"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.5,
+                "place": "4 km NNE of Eastborough, Kansas",
+                "time": 1615721490015,
+                "updated": 1616078335263,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dj9m",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dj9m.geojson",
+                "felt": 1343,
+                "cdi": 4.6,
+                "mmi": 4.57,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 648,
+                "net": "us",
+                "code": "7000dj9m",
+                "ids": ",us7000dj9m,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.635,
+                "rms": 0.3,
+                "gap": 124,
+                "magType": "mb_lg",
+                "type": "earthquake",
+                "title": "M 3.5 - 4 km NNE of Eastborough, Kansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2379,
+                    37.719,
+                    5
+                ]
+            },
+            "id": "us7000dj9m"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "182 km NE of Gisborne, New Zealand",
+                "time": 1614989782185,
+                "updated": 1615259151084,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dg8x",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dg8x.geojson",
+                "felt": 16,
+                "cdi": 5.8,
+                "mmi": 5.017,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 620,
+                "net": "us",
+                "code": "7000dg8x",
+                "ids": ",us7000dg8x,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.036,
+                "rms": 1.04,
+                "gap": 34,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 182 km NE of Gisborne, New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.6102,
+                    -37.6099,
+                    13
+                ]
+            },
+            "id": "us7000dg8x"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "Kermadec Islands region",
+                "time": 1614911436571,
+                "updated": 1614998047561,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dft1",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dft1.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 3.586,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 611,
+                "net": "us",
+                "code": "7000dft1",
+                "ids": ",us7000dft1,",
+                "sources": ",us,",
+                "types": ",losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 9.815,
+                "rms": 1.25,
+                "gap": 41,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - Kermadec Islands region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -176.5582,
+                    -28.7146,
+                    17
+                ]
+            },
+            "id": "us7000dft1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 8.1,
+                "place": "Kermadec Islands, New Zealand",
+                "time": 1614886112062,
+                "updated": 1616225833801,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dflf",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dflf.geojson",
+                "felt": 14,
+                "cdi": 9.1,
+                "mmi": 8.005,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1022,
+                "net": "us",
+                "code": "7000dflf",
+                "ids": ",at00qpgm3n,pt21063003,us7000dflf,",
+                "sources": ",at,pt,us,",
+                "types": ",associate,dyfi,finite-fault,general-text,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.747,
+                "rms": 0.68,
+                "gap": 21,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 8.1 - Kermadec Islands, New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.2771,
+                    -29.7324,
+                    21.18
+                ]
+            },
+            "id": "us7000dflf"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.8,
+                "place": "12 km E of Verdiko\u00c3\u00bassa, Greece",
+                "time": 1614883099415,
+                "updated": 1615106586987,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dfku",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dfku.geojson",
+                "felt": 68,
+                "cdi": 8.6,
+                "mmi": 8.008,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 708,
+                "net": "us",
+                "code": "7000dfku",
+                "ids": ",us7000dfku,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.424,
+                "rms": 0.9,
+                "gap": 19,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.8 - 12 km E of Verdiko\u00c3\u00bassa, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1189,
+                    39.7886,
+                    10
+                ]
+            },
+            "id": "us7000dfku"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.4,
+                "place": "Kermadec Islands, New Zealand",
+                "time": 1614879683363,
+                "updated": 1616087551689,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dfk3",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dfk3.geojson",
+                "felt": 2,
+                "cdi": 2,
+                "mmi": 6.815,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 843,
+                "net": "us",
+                "code": "7000dfk3",
+                "ids": ",us7000dfk3,pt21063002,at00qpgh52,",
+                "sources": ",us,pt,at,",
+                "types": ",dyfi,finite-fault,general-text,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.429,
+                "rms": 1.2,
+                "gap": 30,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.4 - Kermadec Islands, New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.8205,
+                    -29.6651,
+                    43
+                ]
+            },
+            "id": "us7000dfk3"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "174 km NE of Gisborne, New Zealand",
+                "time": 1614864456464,
+                "updated": 1615413272975,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dffl",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000dffl.geojson",
+                "felt": 209,
+                "cdi": 7.3,
+                "mmi": 6.441,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 972,
+                "net": "us",
+                "code": "7000dffl",
+                "ids": ",at00qpg5dz,us7000dffl,pt21063000,",
+                "sources": ",at,us,pt,",
+                "types": ",dyfi,general-text,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.904,
+                "rms": 1.35,
+                "gap": 23,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.3 - 174 km NE of Gisborne, New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.4443,
+                    -37.5628,
+                    20.78
+                ]
+            },
+            "id": "us7000dffl"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "10 km WNW of T\u00c3\u00bdrnavos, Greece",
+                "time": 1614766570197,
+                "updated": 1615912012599,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000df40",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000df40.geojson",
+                "felt": 216,
+                "cdi": 9.1,
+                "mmi": 8.19,
+                "alert": "orange",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1197,
+                "net": "us",
+                "code": "7000df40",
+                "ids": ",us7000df40,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.415,
+                "rms": 1.05,
+                "gap": 17,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 10 km WNW of T\u00c3\u00bdrnavos, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1756,
+                    39.7641,
+                    10
+                ]
+            },
+            "id": "us7000df40"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "13 km NNE of Gura Teghii, Romania",
+                "time": 1614460390345,
+                "updated": 1615939800149,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000de88",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000de88.geojson",
+                "felt": 697,
+                "cdi": 5.4,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 635,
+                "net": "us",
+                "code": "7000de88",
+                "ids": ",us7000de88,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.4,
+                "rms": 0.95,
+                "gap": 34,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 13 km NNE of Gura Teghii, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4962,
+                    45.5937,
+                    130.33
+                ]
+            },
+            "id": "us7000de88"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.3,
+                "place": "5 km SSE of Point MacKenzie, Alaska",
+                "time": 1614452365296,
+                "updated": 1616353782142,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0212o88mof",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0212o88mof.geojson",
+                "felt": 3766,
+                "cdi": 7.1,
+                "mmi": 5,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1142,
+                "net": "ak",
+                "code": "0212o88mof",
+                "ids": ",ak0212o88mof,at00qp7bez,us7000de78,",
+                "sources": ",ak,at,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": null,
+                "rms": 1.08,
+                "gap": null,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.3 - 5 km SSE of Point MacKenzie, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.9334,
+                    61.319,
+                    46
+                ]
+            },
+            "id": "ak0212o88mof"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.6,
+                "place": "6 km SE of Vogar, Iceland",
+                "time": 1614161159124,
+                "updated": 1616154270246,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000dkmk",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000dkmk.geojson",
+                "felt": 68,
+                "cdi": 8.6,
+                "mmi": 8.086,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 708,
+                "net": "us",
+                "code": "6000dkmk",
+                "ids": ",us6000dkmk,",
+                "sources": ",us,",
+                "types": ",dyfi,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.903,
+                "rms": 0.61,
+                "gap": 35,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.6 - 6 km SE of Vogar, Iceland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.2851,
+                    63.949,
+                    10
+                ]
+            },
+            "id": "us6000dkmk"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.76,
+                "place": "9km ENE of Gilroy, CA",
+                "time": 1613957893840,
+                "updated": 1615783792956,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73526151",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73526151.geojson",
+                "felt": 1305,
+                "cdi": 4.7,
+                "mmi": 4.045,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 688,
+                "net": "nc",
+                "code": "73526151",
+                "ids": ",ew1613957893,nc73526151,us6000djz4,",
+                "sources": ",ew,nc,us,",
+                "types": ",dyfi,focal-mechanism,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 164,
+                "dmin": 0.02089,
+                "rms": 0.15,
+                "gap": 33,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 3.8 - 9km ENE of Gilroy, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4781667,
+                    37.0456667,
+                    6.22
+                ]
+            },
+            "id": "nc73526151"
+        }
+    ],
+    "bbox": [
+        -177.8205,
+        -37.6099,
+        5,
+        179.6102,
+        63.949,
+        130.33
+    ]
+}
