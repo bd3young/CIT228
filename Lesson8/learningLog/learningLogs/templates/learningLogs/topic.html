@@ -1,12 +1,13 @@
 {% extends "learningLogs/base.html" %}
 
 {% block content %}
-    <p>Topics</p>
+    <p>Topic: {{ topic }}</p>
 
     <ul>
-        {% for topic in topics %}
+        {% for entry in entries %}
             <li>
-                <a href="{% url 'learningLogs:topic' topic.id %}"> {{topic}}</a>
+                <p> {{ entry.date_added|date:'M d, Y H:i' }} </p>
+                <p> {{ entry.text|linebreaks }} </p>
             </li>
         {% empty %}
             <li>No topics have been added yet.</li>
