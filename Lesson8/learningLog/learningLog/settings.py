@@ -23,7 +23,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '_7%-%dw2f(%1a=b6(8!5eu*=z!kid24wm6fuxc(%yl5+g!-r(0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+import os
+
+if os.environ.get('DEBUG') == 'TRUE':
+    DEBUG = True
+elif os.environ.get('DEBUG') == 'FALSE':
+    DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -33,6 +38,8 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'learningLogs',
     'users',
+
+    'bootstrap4',
 
     'django.contrib.admin',
     'django.contrib.auth',
@@ -57,7 +64,7 @@ ROOT_URLCONF = 'learningLog.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -123,3 +130,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 LOGIN_URL = 'users:login'
+
+# Heroku settings.
+# http://best-learning-log.herokuapp.com/
+import django_heroku
+django_heroku.settings(locals())
